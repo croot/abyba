@@ -1,0 +1,1 @@
+{u'some_user@jabber.ua': {'n': 1}}

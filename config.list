@@ -1,0 +1,27 @@
+CONNECT_SERVER = jtalk.ru
+
+PORT = 5222
+
+JID = jbot@jtalk.ru # bot jabber ID
+
+PASSWORD = 123456
+
+RESOURCE = Cool&
+
+DEFAULT_NICK = Cool+
+
+ADMINS = some_user@jabbrik.ru
+
+ADMIN_PASSWORD = 12347
+
+AUTO_RESTART = 1
+
+AUTO_PUBLIC_COMOFF = 0
+
+INVITE_JOIN = 0
+
+
+
+PUBLIC_LOG_DIR = #log
+
+PRIVATE_LOG_DIR = #privlog

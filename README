@@ -1,0 +1,8 @@
+what is this? this is Talisman ver.1 preXP1 source code.
+what is XP1? it's eXperience Pack 1 for version 1 (tags\1).
+why do we need it? for more bugs feedback. at first, i wished to publish XP1 when it will be completely done. but i'm changed my mind. well... some people WANTED to so it was ;) so, when it will be done - it will be moved to tags\1
+
+how to install:
+1)	edit config.list
+2)	run pybot.py
+3)	from botadmin jid type to bot jid "зайти some_chat@at.some.server"

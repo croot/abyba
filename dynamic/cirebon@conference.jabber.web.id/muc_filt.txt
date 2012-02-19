@@ -1,0 +1,1 @@
+{'spam': '0', 'len': '1000', 'blacklist': [], 'rek': '0', 'vipe': '0', 'msg': '0', 'obs': '0', 'priv': '0'}

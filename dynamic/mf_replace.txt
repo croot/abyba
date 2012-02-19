@@ -1,0 +1,1 @@
+{u'some_user1@jabber.ua': u'\u0432\u0430\u0441\u044f', u'some_user@jabber.ua': u'\u0432\u0430\u0441\u044f'}
